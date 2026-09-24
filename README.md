@@ -43,7 +43,7 @@ This project was made as a second step into data analysis with R, with the goal 
 - R (version 4.5.2)
 - tidyverse (dplyr, tidyr, ggplot2)
 
-I just imported the CSV dataset, reshaped the data from wide to long format using `pivot_longer()`(=66cols to 3cols) and visualised life expectancy trends over time with `ggplot2`.
+I just imported the CSV dataset, reshaped the data from wide to long format using `pivot_longer()`(= of 66 columns to 3 columns) and visualised life expectancy trends over time with `ggplot2`.
 
 
 ## Author
