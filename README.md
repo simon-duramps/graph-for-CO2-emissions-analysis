@@ -6,7 +6,7 @@ You will find simple, detailed instructions there for generating a graph for a s
 
 **Dataset** :
 
-- *Source*: [Kaggle – Life Expectancy at Birth Across the Globe](https://www.kaggle.com/datasets/iamsouravbanerjee/life-expectancy-at-birth-across-the-globe)
+- *Source*: [Kaggle – Co2 Emissions Across the Globe](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
 - *Coverage*: 266 entities (countries + regions), 1960–2018
 - *Variables*: Country Name, Year (1960–2018 per 5 to 5), CO2 emissions (metric tons per inhabitant)
 
